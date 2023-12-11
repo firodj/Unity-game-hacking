@@ -131,3 +131,23 @@ Tool | Tutorial
 ## Hacking memory
 
 Cheat engine have a feature called [Dissect mono](https://wiki.cheatengine.org/index.php?title=Mono) that can help hacking game's memory. This [video series](https://www.youtube.com/playlist?list=PLNffuWEygffbue0tvx7IusDmfAthqmgS7) about using cheat engine is really useful.
+
+## Modding
+
+> Tool to use and create mods for Unity games. <br/><br/>
+Credits: [Awesome Modding](https://github.com/loicreynier/awesome-modding#unity)
+
+Tool | Description
+--- | ---
+[BepInEx](https://github.com/BepInEx/BepInEx) | Plugin / modding framework for Unity Mono, IL2CPP and .NET framework games.
+[Enhanced BepInEx Configuration Manager](https://www.nexusmods.com/site/mods/529) | Enhanced, customizable version of the BepInEx Configuration Manager, made to work with more games and be more user-friendly.
+[MelonLoader](https://melonwiki.xyz) | Universal mod loader for games built in the Unity Engine.
+[Runtime Unity Editor](https://github.com/ManlyMarco/RuntimeUnityEditor) | In-game inspector and debugging tools for applications made with Unity3D game engine.
+[ThunderKit](https://github.com/PassivePicasso/ThunderKit) | Mod project development environment for Unity and Unity games.
+[UnityExplorer](https://github.com/sinai-dev/UnityExplorer) | In-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.
+[Unity Mod Manager](https://www.nexusmods.com/site/mods/21) | Mod Manager for Unity games with support for 50+ games.
+
+## Other Resources
+
+* https://jf.id.au/blog/reverse-engineering-a-unity-game
+* https://www.kodeco.com/36285673-how-to-reverse-engineer-a-unity-game

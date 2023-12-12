@@ -144,10 +144,14 @@ Tool | Description
 [MelonLoader](https://melonwiki.xyz) | Universal mod loader for games built in the Unity Engine.
 [Runtime Unity Editor](https://github.com/ManlyMarco/RuntimeUnityEditor) | In-game inspector and debugging tools for applications made with Unity3D game engine.
 [ThunderKit](https://github.com/PassivePicasso/ThunderKit) | Mod project development environment for Unity and Unity games.
-[UnityExplorer](https://github.com/sinai-dev/UnityExplorer) | In-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.
+[UnityExplorer Fork Featured](https://github.com/originalnicodr/UnityExplorer) | ``UnityExplorer`` fork focused on providing tools for creating marketing material for Unity games.
+[UnityExplorer](https://github.com/sinai-dev/UnityExplorer) <br /> ![No Longer Maintained](https://img.shields.io/badge/No%20Longer%20Maintained-red.svg) | In-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.
 [Unity Mod Manager](https://www.nexusmods.com/site/mods/21) | Mod Manager for Unity games with support for 50+ games.
 
 ## Other Resources
 
-* https://jf.id.au/blog/reverse-engineering-a-unity-game
-* https://www.kodeco.com/36285673-how-to-reverse-engineer-a-unity-game
+* [Reverse Engineering a Unity Game by jakzo](https://jf.id.au/blog/reverse-engineering-a-unity-game)
+* [How to Reverse Engineer a Unity Game by Eric Van de Kerckhove](https://www.kodeco.com/36285673-how-to-reverse-engineer-a-unity-game)
+* [UnityExplorer and Freecam](https://framedsc.com/GeneralGuides/universal_unity_freecam.htm)
+* [List of useful development plugins](https://docs.bepinex.dev/articles/dev_guide/dev_tools.html)
+
